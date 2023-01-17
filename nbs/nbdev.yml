@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "graph"
+  site-url: "https://DiTscho.github.io/graph"
+  description: "Graph theory and GNN applied to breast cancer histology"
+  repo-branch: main
+  repo-url: "https://github.com/DiTscho/graph"
